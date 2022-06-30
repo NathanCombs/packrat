@@ -1,0 +1,22 @@
+{
+  "name": "packrat",
+  "version": "1.0.0",
+  "description": "The rat that helps you pack!",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanCombs/packrat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanCombs/packrat/issues"
+  },
+  "homepage": "https://github.com/NathanCombs/packrat#readme",
+  "bin": {
+    "packrat": "./index.tsx"
+  }
+}
